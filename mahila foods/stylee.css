@@ -25,6 +25,13 @@ body {
   border-radius: 41px;
   outline: 4px solid red;
 }
+.lit-logo{
+  width: 70px;
+  height: 70px;
+  border-radius: 41px;
+  outline: 4px solid red;
+
+}
 nav {
   display: flex;
   justify-content: space-between;
